@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">荣耀输入代理</string>
+    <string name="section_status">状态</string>
+    <string name="section_tuning">触控板参数</string>
+    <string name="touchpad">触控板代理</string>
+    <string name="keyboard">键盘代理</string>
+    <string name="stopped">已停止</string>
+    <string name="running">运行中</string>
+    <string name="start">启动</string>
+    <string name="stop">停止</string>
+    <string name="sens_title">指针灵敏度</string>
+    <string name="scroll_title">滚动速度</string>
+    <string name="invert">反转滚动方向</string>
+    <string name="note">启动后触控板变为相对指针，支持双指滚动、单指轻点左键、双指轻点右键；键盘的 ESC 与 Win 键直达主机，不再触发平板快捷键。\n\n拖动滑杆会立即生效。停止后立刻恢复系统原生输入。</string>
+</resources>
